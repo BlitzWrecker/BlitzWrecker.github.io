@@ -1,6 +1,8 @@
 layout: page
 title: "assetlinks.json"
-permalink: /.well-known/assetlink.
+permalink: /.well-known/assetlinks.json
+
+
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
