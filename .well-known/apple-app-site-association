@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "6479434415.ai.aitok.radio"
+          "A87YMCFQ2T.ai.aitok.radio"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "6479434415.ai.aitok.radio"
+      "A87YMCFQ2T.ai.aitok.radio"
     ]
   }
 }
